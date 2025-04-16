@@ -33,7 +33,7 @@ A fully functional, two-player local chess game developed using the Flutter fram
 
 | Board View | Valid Move Highlight |
 |------------|----------------------|
-| ![board](img1.jpeg) | ![highlight](screenshots/valid_moves.png) |
+| ![board](img1.png) | ![highlight](img2.png) |
 
 > Add your actual screenshots in a `screenshots/` folder and update the paths above.
 
