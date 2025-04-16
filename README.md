@@ -1,16 +1,46 @@
-# chess_app
+# ♟️ Flutter Chess Game
 
-A new Flutter project.
+A fully functional, two-player local chess game developed using the Flutter framework.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 🎨 Visually appealing 8x8 chessboard UI with distinct square coloring.
+- ♟️ Accurate movement logic for all chess pieces:
+  - Pawn (with basic promotion),
+  - Rook, Knight, Bishop, Queen, King
+- ✅ Move validation to ensure legal plays.
+- 🔍 Piece selection and highlighting of valid moves.
+- ⚔️ Basic capture logic and tracking of captured pieces.
+- 🧠 Game state management:
+  - Check and Checkmate detection
+  - Game reset functionality
+- 📱 Clean touch interaction using Flutter's gesture system.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** – For UI rendering and app structure
+- **Dart** – Core logic and state management
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Future Enhancements
+
+- ⏳ Implement castling and en passant moves
+- 🤖 Add single-player mode with AI opponent
+- 💾 Save and load game state
+- 🔄 Undo/Redo functionality
+- 🌐 Online multiplayer support
+
+## 📷 Screenshots
+
+| Board View | Valid Move Highlight |
+|------------|----------------------|
+| ![board](img1.jpeg) | ![highlight](screenshots/valid_moves.png) |
+
+> Add your actual screenshots in a `screenshots/` folder and update the paths above.
+
+## 🧪 How to Run
+
+```bash
+git clone https://github.com/your-username/chess-game.git
+cd chess-game
+flutter pub get
+flutter run
