@@ -39,7 +39,7 @@ A fully functional, two-player local chess game developed using the Flutter fram
 ## 🧪 How to Run
 
 ```bash
-git clone https://github.com/Arsalan-Chang/chess-game.git
+git clone https://github.com/ArsalanChang/chess-game-flutter.git
 cd chess-game
 flutter pub get
 flutter run
