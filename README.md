@@ -35,12 +35,11 @@ A fully functional, two-player local chess game developed using the Flutter fram
 |------------|----------------------|
 | ![board](img1.png) | ![highlight](img2.png) |
 
-> Add your actual screenshots in a `screenshots/` folder and update the paths above.
 
 ## 🧪 How to Run
 
 ```bash
-git clone https://github.com/your-username/chess-game.git
+git clone https://github.com/Arsalan-Chang/chess-game.git
 cd chess-game
 flutter pub get
 flutter run
